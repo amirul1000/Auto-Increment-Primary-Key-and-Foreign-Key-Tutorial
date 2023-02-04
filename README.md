@@ -14,9 +14,8 @@ A foreign key is a column or group of columns in a relational database table tha
 https://www.codester.com?ref=rana100
 
 
-Youtube Tutorial : https://youtu.be/JNGzV1G9iCs
+Youtube Tutorial : https://youtu.be/R5vN2_MNHqk
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
